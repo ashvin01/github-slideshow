@@ -1,0 +1,36 @@
+Step-1 : First Install node js 
+from node web site
+step-2 : check version for node 
+node -v
+step-3 create app useing node
+go to path where u wnat to create app on command prompt
+npm install -g create-react-app(Appname)
+step 4 : now u change app name 
+creat-react-app appname
+
+
+
+
+
+
+
+point to remember
+- first import component
+- we have to must two defaul component import in application 
+ -import React from 'react';
+ -import ReactDOM from 'react-dom'
+- Component first characte must have Capital exp : Demo.js
+- export defalt component(Component name)
+- render() { <> any html content <>} this for view html in browser 
+- props means component custom property
+- ReactCom.render(component(jo dikhanahe vo), div(jiskeandardikha na he vo));
+- import css exp import './cssfilename.css'
+
+
+
+
+
+
+
+https://learn.helloveeru.com/users/sign_in
+https://answerthepublic.com/
